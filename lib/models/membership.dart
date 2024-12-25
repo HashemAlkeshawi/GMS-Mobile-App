@@ -5,6 +5,6 @@ class MemberShip {
 
   @override
   String toString() {
-    return "Membership starts on: $startDate\nMembership ends on: $endDate";
+    return "Membership starts on: $startDate\n Membership ends on: $endDate";
   }
 }
