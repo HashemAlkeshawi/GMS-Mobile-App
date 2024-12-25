@@ -6,6 +6,6 @@ class Attendance {
 
   @override
   String toString() {
-    return "Trainee attendance status is: $status\nDate: $date}";
+    return "Trainee attendance status is: $status\nDate is: $date}";
   }
 }
